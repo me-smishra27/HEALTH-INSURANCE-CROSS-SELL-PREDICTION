@@ -1,5 +1,5 @@
 # HEALTH-INSURANCE-CROSS-SELL-PREDICTION
-# Project 2 - Classification : Insurance Cross-Selling
+# Project Classification : Insurance Cross-Selling
 
 #### -- Project Status: [Completed]
 
