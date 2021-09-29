@@ -22,7 +22,7 @@ The task was divided into 2 main parts :
 #### Technical Details for ML : We trained 5 Different Algorithms 
 ( Logistic Regression , K-Nearest Neighbors , Random Forest , XGBoost and CatBoost )
 We used GridSearchCV and BayesSearchCV for HyperParameter Tuning
-Comparing both F1 and AUC-ROC Score , we can see that Random Forrest and  XGBoost model performs the best . Best AUC-ROC = 0.86 , Best F1=0.44
+Comparing both F1 and AUC-ROC Score , we can see that Random Forrest and  XGBoost model performs the best . Recall of 65%, Best AUC-ROC = 0.86 , Best F1=0.44
 
 
 #### Conclusions : Insights from exploring the Data :
